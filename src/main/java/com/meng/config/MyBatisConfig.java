@@ -20,7 +20,7 @@ import java.util.Properties;
 
 /**
  * @Author: 孟庆浩
- * @Description:
+ * @Description:mybatis配置类
  * @Date: Created in 17-10-9 下午2:42
  * @Modified By:
  */

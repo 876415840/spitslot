@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @Author: 孟庆浩
- * @Description:
+ * @Description:应用入口
  * @Date: Created in 17-10-9 下午2:26
  * @Modified By:
  */

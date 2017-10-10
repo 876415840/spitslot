@@ -2,7 +2,7 @@ package com.meng.entity;
 
 /**
  * @Author: 孟庆浩
- * @Description:
+ * @Description:测试实体
  * @Date: Created in 17-10-9 下午3:59
  * @Modified By:
  */
